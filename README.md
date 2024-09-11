@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabera7
-- 👀 I’m interested in Wordpress - PHP & JS 
-- 🌱 I’m currently learning JS & JQuery 
+- 👀 I’m interested in Wordpress - PHP - JS - JQuery - Python - TensorFlow
+- 🌱 I’m currently learning TensorFlow & Python
 - 💞️ I’m looking to collaborate on PHP Snippets and functionalites repository  
 - 📫 How to reach me gabrielmrgalera@gmail.com
 
